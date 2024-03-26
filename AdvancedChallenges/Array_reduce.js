@@ -3,3 +3,5 @@
 // check if the item is already included in the accumulator using the includes() method. 
 // Here, you can see that the reduce() method returns an array (without any duplicates)
 //  instead of a single value.
+
+
