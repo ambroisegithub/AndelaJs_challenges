@@ -21,3 +21,5 @@ const deepCopy = JSON.parse(JSON.stringify(originalObject));
 deepCopy.address.city = "mukayanza";
 console.log(deepCopy.address.city);
 console.log(originalObject.address.city);
+
+
